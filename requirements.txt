@@ -1,0 +1,16 @@
+APScheduler
+asgiref
+async-timeout
+Django
+django-apscheduler
+Pillow
+psycopg2
+python-dateutil
+python-dotenv
+pytz
+redis
+six
+sqlparse
+typing_extensions
+tzdata
+tzlocal
